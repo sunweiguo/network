@@ -5,8 +5,8 @@
 
 这里穿插以下，推广下的个人微信公众号，文章连载在微信公众号。
 
-<div style="align:center">
-![image](http://bloghello.oursnail.cn/newqrcode_for_gh_7c3862b48f98_258.jpg)
+<div align="center">
+	<img src="http://bloghello.oursnail.cn/newqrcode_for_gh_7c3862b48f98_258.jpg" width="250px"></div></br>
 </div>
 
 

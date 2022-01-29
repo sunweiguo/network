@@ -6,7 +6,7 @@
 这里穿插一下，推广下的个人微信公众号，文章连载在微信公众号。
 
 <div align="center">
-	<img src="http://bloghello.oursnail.cn/newqrcode_for_gh_7c3862b48f98_258.jpg" width="300px"></div></br>
+	<img src="https://github.com/sunweiguo/network/blob/main/weixingongzhonghao.jpg" width="300px"></div></br>
 </div>
 
 
